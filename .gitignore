@@ -1,0 +1,9 @@
+/_tools/*
+/**/.DS_Store
+.DS_Store
+/**/DeployDistribution/
+/**/LocalDistribution/
+.nsdeploy
+/**/.nsdeploy
+*.code-workspace
+/**/node_modules/

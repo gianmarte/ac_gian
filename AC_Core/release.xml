@@ -1,0 +1,24 @@
+<Bundle>
+  <param>
+    <name>SuiteCommerce Advanced Aconcagua</name>
+    <nslogin>psgreleasetest@netsuite.com</nslogin>
+    <nscompany>QA PSG - 5083818 - SuiteCommerce Advanced Aconcagua</nscompany>
+    <nsaccnt>5083818</nsaccnt>
+    <bundle_id>228138</bundle_id>
+    <qabundle_testfolder_id></qabundle_testfolder_id>
+    <prodcompany>NetSuite Platform Solutions Group - SuiteCommerce Advanced Aconcagua</prodcompany>
+    <prodaccount>5084194</prodaccount>
+    <prodbundle_id>228165</prodbundle_id>
+    <product_name></product_name>
+    <devaccnt>NA</devaccnt>
+    <devbundle_id>NA</devbundle_id>
+    <baselabel>SCA_Aconcagua</baselabel>
+    <version>Aconcagua Release 2</version>
+    <datelabel>2018.06.19</datelabel>
+    <buildno>2</buildno>
+    <scrum>Scrum-PSGECommerce@netsuite.com</scrum>
+    <versioningmode>MINOR</versioningmode>
+    <qabundle_folder_id>NA</qabundle_folder_id>
+    <ci_plans />
+  </param>
+</Bundle>
