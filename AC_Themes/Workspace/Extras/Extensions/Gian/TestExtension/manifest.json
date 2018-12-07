@@ -1,0 +1,50 @@
+{
+	"name": "TestExtension",
+	"fantasyName": "Test Extension",
+	"vendor": "Gian",
+	"type": "extension",
+	"target": "SCA,SCS",
+	"version": "1.0.0",
+	"description": "First Test Extension",
+	"assets": {
+		"img": {
+			"files": []
+		},
+		"fonts": {
+			"files": []
+		},
+		"services": {
+			"files": []
+		}
+	},
+	"javascript": {
+		"entry_points": {
+			"shopping": "Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js",
+			"myaccount": "Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js",
+			"checkout": "Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js"
+		},
+		"application": {
+			"shopping": {
+				"files": [
+					"Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js",
+					"Modules/TestExtensionModule/JavaScript/TestExtensionModule.View.js"
+				]
+			},
+			"myaccount": {
+				"files": [
+					"Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js",
+					"Modules/TestExtensionModule/JavaScript/TestExtensionModule.View.js"
+				]
+			},
+			"checkout": {
+				"files": [
+					"Modules/TestExtensionModule/JavaScript/Gian.TestExtension.TestExtensionModule.js",
+					"Modules/TestExtensionModule/JavaScript/TestExtensionModule.View.js"
+				]
+			}
+		}
+	},
+	"path": "SuiteScripts/Deploy_Extensions/Gian/TestExtension@1.0.0",
+	"extension_id": "201",
+	"activation_id": 4
+}
