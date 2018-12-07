@@ -32,12 +32,18 @@
         "deploy": "DeployDistribution",
         "extensions_dest_name": "Deploy_Extensions",
         "extmech_parent": "-15",
+<<<<<<< HEAD
         "extensions_path": [
             "Workspace/TestExtension"
         ],
         "theme_path": "Workspace/Extras/Suite_Commerce_Base_Theme",
         "overrides_path": "Workspace/Extras/Suite_Commerce_Base_Theme/Overrides",
         "extensions_dest": 9128
+=======
+        "extensions_path": [],
+        "theme_path": "Workspace/Extras/Suite_Commerce_Base_Theme",
+        "overrides_path": "Workspace/Extras/Suite_Commerce_Base_Theme/Overrides"
+>>>>>>> 19de4c843596d1bea69939bb2b61c3085f11209d
     },
     "application": {},
     "services": {
