@@ -1,0 +1,14 @@
+{
+  "generator-extension": {
+    "promptValues": {
+      "vendor": "Gian"
+    },
+    "ext_application": {
+      "TestExtension": [
+        "shopping",
+        "myaccount",
+        "checkout"
+      ]
+    }
+  }
+}
